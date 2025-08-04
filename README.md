@@ -1,3 +1,5 @@
+# [Ссылка на ТЗ](https://docs.google.com/document/d/10IMsX2ENx1C6LGVKdhQqsoRPPYGU42qjFdUV_OkVnzk/edit?tab=t.0)
+
 # Запуск фронтенда
 
 ```bash
